@@ -121,7 +121,6 @@
       "zonesGraphConnectZones": true
     },
     "gitCommitMode": "AUTO",
-    "useRemoteGit": true,
     "disableAutomaticTriggers": false,
     "integrations": {
       "integrations": []
@@ -289,11 +288,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 143,
+    "versionNumber": 144,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1668528175445
+    "lastModifiedOn": 1668529092789
   },
   "creationTag": {
     "versionNumber": 0,
